@@ -1,0 +1,23 @@
+---
+title: "Projects"
+---
+
+<center>
+<i class="fa fa-coffee" aria-hidden="true"></i>
+</center>
+
+
+during UCSB's session A in 2021, our class Geog 13 is teaching R and i am learning to code so far. here it is!
+
+## [builing a project webite](https://mikejohnson51.github.io/spds/lab-01.html)
+
+- In this assignment we built a static users site with Github Pages 
+- learned how to include an image
+- learning how to change font and colors to icons
+- becoming more familiar with Rstudio
+- Includes a github repo for access to all the code.
+- I also faced a lot of trouble in this project, luckily professor Mike Johnson helped throughout my troubles!
+- MY WORK LOOKS GREAT!
+<center>
+<i class="fa fa-coffee" aria-hidden="true"></i>
+</center>

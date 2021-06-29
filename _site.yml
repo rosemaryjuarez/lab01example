@@ -1,0 +1,16 @@
+name: "first-website"
+output_dir: "."
+navbar:
+  title: "The working website!"
+  left:
+    - text: "Home"
+      icon: fa-home
+      href: index.html
+    - text: "GIS Work"
+      href: geog13.html
+  right:
+    - icon: fa-github
+    - href: https://github.com/rosemaryjuarez
+output:
+  html_document:
+    theme: darkly
