@@ -7,7 +7,11 @@ navbar:
       icon: fa-home
       href: index.html
     - text: "GIS Work"
+      icon: fa-globe
       href: geog13.html
+    - text: "Resume"
+      icon: fa-newspaper-o
+      href: cv.html
   right:
     - icon: fa-github
     - href: https://github.com/rosemaryjuarez

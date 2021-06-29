@@ -2,9 +2,17 @@
 title: "CV"
 ---
 
-#education
--Hueneme High School (2015-2019)
--UCSB (2019-2023)
+# Education
+- Hueneme High School **(2015-2019)**
+- UCSB **(2019-2023)**
 
-#experience
--
+# Experience
+- Spatz makeup factory **(2019)**
+- Carillos Dining **(2019-2020)**
+- Taco Bell **(2021-)**
+<center>
+# pictures
+</center>
+
+![Carillos](img/carrillo-slider3.jpg)
+![tacobell](img/tacobell.jpg)
